@@ -3,7 +3,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🎓 &nbsp; Mahasiswa Teknologi Informasi di Universitas Bina Sarana Informatika.
-- 📖 &nbsp; Sedang mempelajari NodeJS.
+- 📖 &nbsp; Sedang mempelajari React.
 
 
 ### 🛠 &nbsp;Tech Stack
