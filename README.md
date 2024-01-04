@@ -2,8 +2,8 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🎓 &nbsp; Mahasiswa Teknologi Informasi di Universitas Bina Sarana Informatika.
-- 📖 &nbsp; Sedang mempelajari React.
+- 🎓 &nbsp; Sarjana Komputer di Universitas Bina Sarana Informatika
+- 📖 &nbsp; Suka Front-end.
 
 
 ### 🛠 &nbsp;Tech Stack
