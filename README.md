@@ -1,11 +1,3 @@
-## Ahmad Mursyidan
-
-### 💻 &nbsp;About Me 
-
-- 🎓 &nbsp; Sarjana Komputer di Universitas Bina Sarana Informatika
-- 📖 &nbsp; Suka Front-end.
-
-
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
